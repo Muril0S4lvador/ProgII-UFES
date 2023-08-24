@@ -5,6 +5,7 @@ Repositório criado com o intuito de armazenar os códigos desenvolvidos por mim
 ## :open_file_folder: Pastas
 
 Neste repositório, você encontrará todas as atividades realizadas em laboratório, bem como monitorias e trabalhos do semestre. Os códigos nas pastas "Labs" e "Monitorias" estão comprimidos. Um programa notável é o "descobreCR.c", que foi criado em meu tempo livre para calcular o Coeficiente de Rendimento (CR).
+Os dois trabalhos realizados durante a discplina foram feitos em colaboração com @GabriellaSBorges.
 
 ## 🛠️ Como Abrir e Executar os Projetos
 
