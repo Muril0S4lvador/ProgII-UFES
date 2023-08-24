@@ -1,0 +1,22 @@
+tiny:
+	test.txt : real    0m0.070s
+	train.txt: real    0m0.256s
+
+small:
+	test.txt : real    0m0.203s
+	train.txt: real    0m0.673s
+
+medium-small:
+	test.txt : real    0m3.897s
+	train.txt: real    0m12.521s
+
+medium-large:
+	test.txt : real    0m11.313s
+	train.txt: real    0m54.062s
+
+large:
+	test.txt : real    6m7.666s
+	train.txt: real    11m32.347s
+
+holly:
+	real    0m0.018s

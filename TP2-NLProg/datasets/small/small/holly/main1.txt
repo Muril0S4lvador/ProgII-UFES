@@ -1,0 +1,13 @@
+Qtd de Palavras: 4
+Palavra [0] - carro > Qtd dados = 1
+|1 - 1 - 1.41| 
+
+Palavra [1] - gol > Qtd dados = 2
+|0 - 3 - 3.00| |1 - 1 - 1.00| 
+
+Palavra [2] - roubado > Qtd dados = 1
+|1 - 1 - 1.41| 
+
+Palavra [3] - time > Qtd dados = 1
+|0 - 1 - 1.41| 
+

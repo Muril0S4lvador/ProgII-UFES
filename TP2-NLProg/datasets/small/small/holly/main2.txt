@@ -1,0 +1,25 @@
+Qtd de Palavras: 8
+Palavra [-1] - alicerce > Qtd dados = 0
+
+
+Palavra [0] - carro > Qtd dados = 1
+|1 - 1 - 1.41| 
+
+Palavra [-1] - de > Qtd dados = 0
+
+
+Palavra [-1] - em > Qtd dados = 0
+
+
+Palavra [1] - gol > Qtd dados = 2
+|0 - 3 - 3.00| |1 - 1 - 1.00| 
+
+Palavra [-1] - onibus > Qtd dados = 0
+
+
+Palavra [2] - roubado > Qtd dados = 1
+|1 - 1 - 1.41| 
+
+Palavra [3] - time > Qtd dados = 1
+|0 - 1 - 1.41| 
+
