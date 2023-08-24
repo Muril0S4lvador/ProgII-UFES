@@ -1,4 +1,4 @@
-# 🔈🎼 SpotFES
+# :computer::newspaper: NLProg
 
 Trabalho realizado com o intuito de estudar algoritmos de recomendação.
 

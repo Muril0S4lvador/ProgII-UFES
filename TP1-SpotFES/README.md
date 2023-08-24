@@ -11,3 +11,5 @@ Neste projeto, as seguintes tarefas foram abordadas:
 - Todas as músicas possuem links para suas URLs, clique nos links para ouvi-las.
 
 Sinta-se à vontade para explorar o código e as funcionalidades!
+
+> **Observação:** coloque o caminho para o arquivo de artistas e de musicas respectivamente nos argumentos para rodar.
