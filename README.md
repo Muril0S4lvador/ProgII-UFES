@@ -20,7 +20,7 @@ Siga os passos abaixo para clonar, compilar e executar os projetos:
 3. Compile o projeto executando o seguinte comando:
 
     ```bash
-    gcc -o main*.c
+    gcc -o main *.c
 
 4. Nos trabalhos basta dar o comando
 
